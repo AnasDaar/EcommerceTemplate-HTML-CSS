@@ -1,0 +1,367 @@
+.header{
+    margin: auto;
+    position: relative;
+    width: 60%;
+    height: 100px;
+    background-color: rgb(248, 248, 248);
+}
+.logo{
+    position: absolute;
+    width: 30%;
+    height: 100px;
+    padding: 10px;
+}
+.flags{
+    position:absolute;
+    width: 20%;
+    height:50px;
+    margin-left: 45%;
+}
+.cart{
+    height: 50px;
+    padding-top: 10px;
+}
+.cartimg{
+    width: 30px;
+    height: 25px;
+}
+.text1{
+    margin-top: -30px;
+    margin-left: 40px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 10px;
+}
+.items{
+    color: #08a6c4;
+
+}
+.navmenu{
+    width: 30%;
+    height: 100px;
+    margin-left: 70%;
+}
+.navmenu ul{
+    list-style-type: none;
+}
+.navmenu ul li{
+    text-decoration: none;
+}
+.navmenu ul li img{
+    width: 7px;
+    height: 7px;
+}
+.navmenu ul li a{
+    color: black;
+    margin-left: 5px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size:12px;
+}
+.bottomline{
+    width: 60%;
+    height: 4px;
+    background-color: #fdd901;
+    border: #fdd901;
+}
+.banner{
+    margin: auto;
+    display: flex;
+    width: 60%;
+}
+.sidemenu{
+    width: 30%;
+    height: 200px;
+}
+.sidemenu ul{
+    list-style-type: none;
+}
+.sidemenu ul li img{
+    width: 9px;
+    height: 9px;
+
+}
+.sidemenu ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+}
+.navimg img{
+    width: 100%;
+    height: 200px;
+}
+.bottomline1{
+    width: 60%;
+    height: 4px;
+    background-color: #a8a8a8;
+    border: #a8a8a8;
+    margin-top: -3px;
+}
+.line{
+    width: 60%;
+    display: flex;
+    margin: auto;
+    margin-top: -6px;
+
+}
+.first{
+    width: 29%;
+    height: 40px;
+    text-align: center;
+    background-color: #737373;
+    
+}
+.first p{
+    color: white;
+    margin-top:8px;
+    font-size: 14px;
+    font-family: 'Space Grotesk', sans-serif;
+    
+}
+.second{
+    width: 45%;
+    height: 40px;
+    margin-left: 2px;
+    background-image: linear-gradient(#fa961a,#fcca07);
+
+}
+.second p{
+    color: white;
+    font-size: 14px;
+    font-family: 'Space Grotesk', sans-serif;
+    margin: 8px 0px 0px 5px;
+}
+.third{
+    width: 25%;
+    margin-left: 2px;
+    height: 40px;
+    background-image: linear-gradient(#fa961a,#fcca07);
+}
+.third p{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    margin-top: 8px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.categories{
+    width: 60%;
+    height: 250px;
+    display: flex;
+    margin: auto;
+}
+
+.sidemenu1{
+    width: 30%;
+    height: 250px;
+}
+.sidemenu1 ul{
+    list-style-type: none;
+}
+.sidemenu1 ul li img{
+    width: 6px;
+    height: 6px;
+
+}
+.sidemenu1 ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 10px;
+}
+.brands{
+    background-color: #737373;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+}
+.brands p{
+    color: white;
+    margin-top:-1px;
+    font-size: 14px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.helo{
+    padding:20px;
+    margin-left: 50px;
+}
+.go{
+    font-family: 'Space Grotesk', sans-serif;
+    width: 70px;
+}
+.btn{
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    background-image: linear-gradient(#fa961a,#fcca07);
+}
+.poster img{
+    width: 100%;
+    height: 95px;
+    border: 1px solid rgb(228, 228, 228);
+}
+
+
+.products{
+    width: 45%;
+    height:300px;
+}
+.upper{
+    position: absolute;
+    width: 26%;
+    height:300px;
+}
+.left{
+    width: 40%;
+    height: 200px;
+    float: left;
+}
+.left img{
+    width: 150px;
+    height: 150px;
+}
+.right{
+    width: 60%;
+    height: 200px;
+    float: left;
+}
+.right h3{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.right h6{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 5px;
+    color: red;
+    margin-top: -10px;
+}
+.table1{
+    font-family: 'Space Grotesk', sans-serif ;
+    font-size: 13px;
+    margin-top: -20px;
+}
+.select{
+    font-family: 'Space Grotesk', sans-serif ;
+    font-size: 13px;
+    width: 60px;
+
+}
+.tablerow{
+    font-family: 'Space Grotesk', sans-serif; 
+    font-size: 13px;
+}
+.poster1 img{
+    width: 540px;
+    height: 95px;
+    border: 1px solid rgb(218, 218, 218);
+    margin-top:-10px;
+}
+.bottommenu{
+    width: 550px;
+}
+.bottommenu ul{
+    list-style-type: none;
+    
+}
+.bottommenu ul li a{
+    text-decoration: none;
+    float: left;
+    margin-left: 4px;
+    font-family: 'Space Grotesk', sans-serif; 
+    font-size: 10px;
+}
+.larger{
+    background-color: #8b8b8b;
+}
+.addcart{
+    background-image: linear-gradient(#fa961a,#fcca07);
+    margin-left: 20px;
+    padding: 5px;
+}
+.del{
+    font-size: 13px;
+    font-family: 'Space Grotesk', sans-serif; 
+
+}
+.original{
+    color: red;
+    font-size: 12px;
+    font-family: 'Space Grotesk', sans-serif; 
+    padding:2px;
+}
+
+
+.lower{
+
+    margin-top:230px;
+    width: 25%;
+    height:300px;
+    position: absolute;
+}
+
+
+.tshirts{
+    width: 24%;
+    height: 250px;
+    background-color: rgb(241, 241, 241);
+}
+.shirt1{
+    width: 100%;
+    height: 125px;
+    display: flex;
+    justify-content: space-around;
+}
+.shirt1 img{
+    width: 60px;
+    height: 85px;
+    padding: 10px;
+}
+.shirt1 table span{
+    color: red;
+    font-size: 18px;
+    font-family:'Space Grotesk', sans-serif;
+}
+
+.shirt2{
+    width: 100%;
+    height: 125px;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    justify-content: space-around;
+}
+.shirt2 img{
+    width: 60px;
+    height: 85px;
+    padding: 10px;
+}
+.shirt2 table span{
+    color: red;
+    font-size: 18px;
+    font-family:'Space Grotesk', sans-serif;
+}
+.shirt3{
+    width: 100%;
+    height: 125px;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    justify-content: space-around;
+}
+.shirt3 img{
+    width: 60px;
+    height: 85px;
+    padding: 10px;
+}
+.shirt3 table span{
+    color: red;
+    font-size: 18px;
+    font-family:'Space Grotesk', sans-serif;
+}
+.footer{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 10px;
+    margin-left: 20px;
+}
